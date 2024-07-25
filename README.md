@@ -24,5 +24,5 @@ For this project, I chose AI chatbot prototype designed for "customer support in
 ## Setup Instructions
 1. **Clone the repository:**
    ```bash
-   git clone <repository_url>
+   git clone <https://github.com/nazsode/ai-chatbot.git>
    cd ai-chatbot-prototype
